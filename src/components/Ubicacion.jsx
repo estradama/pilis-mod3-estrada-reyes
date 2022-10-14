@@ -18,7 +18,7 @@ const Ubicacion = ({ ubicacion }) => {
     return ( 
     <div className="ubicacion-container" key={id}>
     <div className="ubicacion">
-      <h3>Ciudad: {name}</h3>
+      <h3>Lugar: {name}</h3>
       <ul>
         <li>Latitud: {latitud}</li>
         <li>Longuitud:{longitud}</li>

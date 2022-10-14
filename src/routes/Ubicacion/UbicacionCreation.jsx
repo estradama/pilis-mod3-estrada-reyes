@@ -14,9 +14,9 @@ const UbicacionCreation = () => {
     formState: { errors },
   } = useForm({
     defaultValues: {
-      cityName: "",
-      longitud: "", 
-      latitud: "" 
+      cityName: "Palacio de Gobierno de Jujuy",
+      longitud: "-24.1856396", 
+      latitud: "-65.3061111" 
     },
   });
 
