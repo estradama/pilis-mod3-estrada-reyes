@@ -6,7 +6,7 @@
   
   .input-form {
     background: none;
-    background-color: white;
+    background-color: rgb(27, 216, 182);
     font-size: 18px;
     padding: 10px 10px 10px 5px;
     display: block;
@@ -30,7 +30,7 @@
     line-height: 50px;
     padding: 0 35px 0 35px;
     font-size: 15px;
-    background-color: black;
+    background-color: rgb(54, 162, 133);
     color: white;
     font-weight: bolder;
     border: none;
